@@ -15,7 +15,7 @@ OpenVoice is an app that allows you to use your phone's microphone as a micropho
 
 ## Issues/Questions
 
-If you have any question you can send me an email at pm_ov@pm.me!
+If you have any questions you can send me an email at pm_ov@pm.me!
 
 ## Author
 
