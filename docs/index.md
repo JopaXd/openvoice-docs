@@ -13,7 +13,7 @@ OpenVoice is an app that allows you to use your phone's microphone as a micropho
 * Android: Download [APK](./releases/openvoice_android.apk).
 * Android (Google Play): Coming soon.
 
-## Issues/Question
+## Issues/Questions
 
 If you have any question you can send me an email at pm_ov@pm.me!
 
