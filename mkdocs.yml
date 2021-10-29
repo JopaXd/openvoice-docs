@@ -1,6 +1,10 @@
-site_name: My Docs
+site_name: OpenVoice
+nav:
+  - Home: index.md
+  - Setup: setup.md
 theme:
   name: material
+  favicon: assets/icon.png
   logo: assets/icon.png
   palette:
     primary: grey

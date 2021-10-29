@@ -1,17 +1,22 @@
 # OpenVoice
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+![Failed to load image](assets/banner.png "OpenVoice")
 
-## Commands
+## About
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+OpenVoice is an app that allows you to use your phone's microphone as a microphone for your computer via Bluetooth or Wi-Fi.
 
-## Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Downloads
+
+* Windows (x64) : Download [Binary Release](./releases/openvoice_desktop.zip).
+* Android: Download [APK](./releases/openvoice_android.apk).
+* Android (Google Play): Coming soon.
+
+## Issues/Question
+
+If you have any question you can send me an email at pm_ov@pm.me!
+
+## Author
+
+Made by Pavle Milanov.
