@@ -9,8 +9,11 @@ This Virtual Audio Device acts like a microphone that allows OpenVoice to send a
 Here are the options i recommend, they are pretty straight forward to set up:
 
 
-* [Virtual Audio Cable](https://vac.muzychenko.net/en/download.htm)
+* [Virtual Audio Cable (Recommended)](https://vac.muzychenko.net/en/download.htm)
 * [VB-Cable](https://vb-audio.com/Cable/)
+* Use your own!
+
+(You can use any Virtual Audio Device as long as the audio that is sent to the output device is routed to the input device)
 
 After that, the fun part comes.
 
