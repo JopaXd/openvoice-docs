@@ -10,7 +10,7 @@ Here are the options i recommend, they are pretty straight forward to set up:
 
 
 * [Virtual Audio Cable (Recommended)](https://vac.muzychenko.net/en/download.htm)
-* [VB-Cable](https://vb-audio.com/Cable/)
+* [VB-Cable](https://vb-audio.com/Cable/) (During testing, i noticed a decent amount of delay while using VB-Cable, If this is the case for you too, use the one above)
 * Use your own!
 
 (You can use any Virtual Audio Device as long as the audio that is sent to the output device is routed to the input device)
