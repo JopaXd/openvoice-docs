@@ -1,2 +1,7 @@
 docs/releases/
 site/
+.DS_Store
+node_modules
+.env
+.env.build
+public
